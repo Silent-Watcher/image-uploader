@@ -1,7 +1,10 @@
 #fileUploader {
   border: 3px dashed #fff;
-  padding: 30px;
   height: 550px;
+  padding: 0;
+}
+#fileUploader span:last-child {
+  font-size: 12px;
 }
 #fileUploader > i {
   font-size: 5rem;
@@ -11,4 +14,12 @@
 }
 #fileUploader > button {
   font-size: 1.2rem;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  -o-object-fit: fill;
+     object-fit: fill;
 }/*# sourceMappingURL=style.css.map */
