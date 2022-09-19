@@ -1,1 +1,14 @@
-/*# sourceMappingURL=style.css.map */
+#fileUploader {
+  border: 3px dashed #fff;
+  padding: 30px;
+  height: 550px;
+}
+#fileUploader > i {
+  font-size: 5rem;
+}
+#fileUploader > p {
+  font-size: 2rem;
+}
+#fileUploader > button {
+  font-size: 1.2rem;
+}/*# sourceMappingURL=style.css.map */
